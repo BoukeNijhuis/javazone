@@ -1,0 +1,11 @@
+Advanced breakpoints
+
+- Line
+- Options
+    - Right click
+    - Enabled
+    - Suspend
+    - Condition
+    - Logging (show shift-gutter clicking as well)
+- Move
+- Restore

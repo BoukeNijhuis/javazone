@@ -1,0 +1,7 @@
+Stepping
+
+- Step Over
+- Step Into / Out
+- Run to cursor
+- Force versions (hold shift?)
+- Smart Step Into
