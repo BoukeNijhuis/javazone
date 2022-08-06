@@ -3,7 +3,7 @@
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
 - Zoom in in the terminal
-- Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld) -> check if it says Hello!
+- Start the jar in a terminal (java -cp target/classes javazone.HelloWorld) -> check if it says Hello!
 - Grab some water
 - Drop frame before hot code swapping!!!
 - Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
