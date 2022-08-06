@@ -5,7 +5,8 @@ public class HelloWorld {
     private static final String DEFAULT_VALUE = "World";
 
     public static void main(String[] args) {
-        System.out.println(createMessage(args));
+        String message = createMessage(args);
+        System.out.println(message);
     }
 
     private static String createMessage(String[] args) {
@@ -15,6 +16,6 @@ public class HelloWorld {
             name = args[0];
         }
 
-        return String.format("Hello %s!", name);
+        return String.format("Hallo %s!", name);
     }
 }
