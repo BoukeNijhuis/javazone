@@ -2,6 +2,9 @@ Stepping
 
 - Step Over
 - Step Into / Out
-- Run to cursor
-- Force versions
+- Run to Cursor
+- Force Step Over
+- Force Step Into
+- Force Run to Cursor
 - Smart Step Into
+- Drop Frame
