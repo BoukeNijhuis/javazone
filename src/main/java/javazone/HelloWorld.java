@@ -16,6 +16,6 @@ public class HelloWorld {
             name = args[0];
         }
 
-        return String.format("Hallo %s!", name);
+        return String.format("Hello %s!", name);
     }
 }
