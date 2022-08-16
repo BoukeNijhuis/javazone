@@ -6,7 +6,6 @@
 - Start the jar in a terminal (java -cp target/classes javazone.HelloWorld) -> check if it says Hello!
 - Check if the message variable is there in the main method!
 - Grab some water
-- Drop frame before hot code swapping!!!
 - Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
 - Open the first three "slides" (0, 1 & HelloWorld.java)
 - IntelliJ in presentation mode
